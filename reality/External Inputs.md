@@ -1,0 +1,6 @@
+- Sight
+- Hearing
+- Balance
+- Smell
+- Taste
+- Touch
