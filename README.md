@@ -1,9 +1,7 @@
 # Reality
 Just a conceptual map to remember some of the things we discussed with some friends about consciousness and the concept of reality
 
-Install Obsidian
-
-Obsidian -> Open Vault from directory -> Open directory "reality"
-
-after you finish your changes to the files, just remember to commit in Git ;D
+1. [Install Obsidian](https://help.obsidian.md/Getting+started/Download+and+install+Obsidian)
+2. Obsidian -> Open Vault from directory -> Open directory "reality"
+3. After you finish to write your changes to the files, just remember to commit and push in Git ;D
 
